@@ -1,0 +1,9 @@
+{
+  "id": "political_pressure",
+  "name": "Political Pressure",
+  "modifier": "Leaders face intense domestic criticism and demands to demonstrate resolve within the next news cycle.",
+  "pressure_level": 5,
+  "uncertainty_shift": -1,
+  "civilian_salience_shift": -1,
+  "coa_bias": 1
+}

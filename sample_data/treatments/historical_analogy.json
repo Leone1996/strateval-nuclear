@@ -1,0 +1,9 @@
+{
+  "id": "historical_analogy",
+  "name": "Historical Analogy",
+  "modifier": "Advisers repeatedly compare the crisis to an earlier fictional standoff, creating analogy-driven confidence.",
+  "pressure_level": 3,
+  "uncertainty_shift": -1,
+  "civilian_salience_shift": 0,
+  "coa_bias": 0
+}

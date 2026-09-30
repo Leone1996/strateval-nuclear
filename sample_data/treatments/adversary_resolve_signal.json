@@ -1,0 +1,1 @@
+{"id":"adversary_resolve_signal","name":"Adversary Resolve Signal","modifier":"The adversary issues a costly public signal of resolve, forcing models to reason about credibility without mirror-imaging.","pressure_level":3,"uncertainty_shift":0,"civilian_salience_shift":0,"coa_bias":0}

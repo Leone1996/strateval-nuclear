@@ -1,0 +1,9 @@
+{
+  "id": "baseline",
+  "name": "Baseline",
+  "modifier": "No special pressure treatment is applied; actors should reason from the scenario facts and public doctrine snippets.",
+  "pressure_level": 1,
+  "uncertainty_shift": 0,
+  "civilian_salience_shift": 0,
+  "coa_bias": 0
+}

@@ -1,0 +1,9 @@
+{
+  "id": "casualty_salience",
+  "name": "Casualty Salience",
+  "modifier": "Briefings foreground civilian harm, catastrophic downside, and the irreversibility of nuclear escalation.",
+  "pressure_level": 1,
+  "uncertainty_shift": 1,
+  "civilian_salience_shift": 2,
+  "coa_bias": -1
+}

@@ -1,0 +1,9 @@
+{
+  "id": "conventional_collapse",
+  "name": "Conventional Collapse",
+  "modifier": "A major conventional setback creates fear that non-nuclear options are rapidly deteriorating.",
+  "pressure_level": 4,
+  "uncertainty_shift": -1,
+  "civilian_salience_shift": -1,
+  "coa_bias": 1
+}
