@@ -1,0 +1,134 @@
+{
+  "actors": [
+    {
+      "actor_id": "united_states",
+      "display_name": "United States",
+      "short_label": "US",
+      "flag": "🇺🇸",
+      "nuclear_status": "nuclear_weapon_state",
+      "default_doctrine_pack_id": "us_public_doctrine_pack",
+      "default_role_tags": ["extended_deterrence", "alliance_assurance", "strategic_deterrence"],
+      "caveat": "Use public declaratory and posture material only; this registry does not infer classified planning."
+    },
+    {
+      "actor_id": "russia",
+      "display_name": "Russia",
+      "short_label": "Russia",
+      "flag": "🇷🇺",
+      "nuclear_status": "nuclear_weapon_state",
+      "default_doctrine_pack_id": "russia_public_doctrine_pack",
+      "default_role_tags": ["strategic_deterrence", "state_survival", "threshold_risk"],
+      "caveat": "Use official public doctrine where available; English-source limitations should remain visible."
+    },
+    {
+      "actor_id": "china",
+      "display_name": "China",
+      "short_label": "China",
+      "flag": "🇨🇳",
+      "nuclear_status": "nuclear_weapon_state",
+      "default_doctrine_pack_id": "china_public_doctrine_pack",
+      "default_role_tags": ["no_first_use", "minimum_deterrence", "strategic_stability"],
+      "caveat": "Use official public white-paper material; do not infer classified force employment doctrine."
+    },
+    {
+      "actor_id": "nato",
+      "display_name": "NATO",
+      "short_label": "NATO",
+      "flag": "",
+      "nuclear_status": "nuclear_alliance",
+      "default_doctrine_pack_id": "nato_public_doctrine_pack",
+      "default_role_tags": ["nuclear_alliance", "extended_deterrence", "alliance_consultation"],
+      "caveat": "NATO is an alliance actor, not a sovereign state; use alliance policy and consultation material only."
+    },
+    {
+      "actor_id": "united_kingdom",
+      "display_name": "United Kingdom",
+      "short_label": "UK",
+      "flag": "🇬🇧",
+      "nuclear_status": "nuclear_weapon_state",
+      "default_doctrine_pack_id": "uk_incomplete_source_pack",
+      "default_role_tags": ["minimum_credible_deterrent", "NATO_contribution"],
+      "caveat": "Incomplete source pack in Prototype 3.1; not a default hero-demo actor."
+    },
+    {
+      "actor_id": "france",
+      "display_name": "France",
+      "short_label": "France",
+      "flag": "🇫🇷",
+      "nuclear_status": "nuclear_weapon_state",
+      "default_doctrine_pack_id": "france_incomplete_source_pack",
+      "default_role_tags": ["vital_interests", "independent_deterrent"],
+      "caveat": "Incomplete source pack in Prototype 3.1; not a default hero-demo actor."
+    },
+    {
+      "actor_id": "india",
+      "display_name": "India",
+      "short_label": "India",
+      "flag": "🇮🇳",
+      "nuclear_status": "nuclear_weapon_state",
+      "default_doctrine_pack_id": "india_incomplete_source_pack",
+      "default_role_tags": ["no_first_use", "credible_minimum_deterrence"],
+      "caveat": "Incomplete source pack in Prototype 3.1; official 2003 public doctrine material should be expanded before hero use."
+    },
+    {
+      "actor_id": "pakistan",
+      "display_name": "Pakistan",
+      "short_label": "Pakistan",
+      "flag": "🇵🇰",
+      "nuclear_status": "nuclear_weapon_state",
+      "default_doctrine_pack_id": "pakistan_incomplete_source_pack",
+      "default_role_tags": ["minimum_credible_deterrence", "command_authority"],
+      "caveat": "Incomplete source pack; do not present secondary interpretations of full-spectrum deterrence as official doctrine."
+    },
+    {
+      "actor_id": "north_korea",
+      "display_name": "North Korea",
+      "short_label": "DPRK",
+      "flag": "🇰🇵",
+      "nuclear_status": "nuclear_weapon_state",
+      "default_doctrine_pack_id": "north_korea_incomplete_source_pack",
+      "default_role_tags": ["regime_survival", "official_translation_limits"],
+      "caveat": "Incomplete source pack; official propaganda and translation limits must be clearly labelled."
+    },
+    {
+      "actor_id": "israel",
+      "display_name": "Israel",
+      "short_label": "Israel",
+      "flag": "🇮🇱",
+      "nuclear_status": "undeclared_opaque",
+      "default_doctrine_pack_id": "israel_opacity_caveat_pack",
+      "default_role_tags": ["nuclear_opacity", "undeclared_posture"],
+      "caveat": "Official nuclear doctrine is undeclared/opaque; do not infer or present operational doctrine."
+    },
+    {
+      "actor_id": "iran",
+      "display_name": "Iran",
+      "short_label": "Iran",
+      "flag": "🇮🇷",
+      "nuclear_status": "non_nuclear_weapon_state",
+      "default_doctrine_pack_id": "iran_non_nuclear_caveat_pack",
+      "default_role_tags": ["non_nuclear_weapon_state", "NPT", "regional_security"],
+      "caveat": "Iran must not be treated as a nuclear-armed actor."
+    },
+    {
+      "actor_id": "japan",
+      "display_name": "Japan",
+      "short_label": "Japan",
+      "flag": "🇯🇵",
+      "nuclear_status": "non_nuclear_weapon_state",
+      "default_doctrine_pack_id": "japan_scenario_context_pack",
+      "default_role_tags": ["alliance_coordination", "non_nuclear_actor"],
+      "caveat": "Scenario-support actor only in Prototype 3.1; not a nuclear doctrine pack."
+    },
+    {
+      "actor_id": "taiwan",
+      "display_name": "Taiwan",
+      "short_label": "Taiwan",
+      "flag": "🇹🇼",
+      "nuclear_status": "non_nuclear_weapon_state",
+      "default_doctrine_pack_id": "taiwan_scenario_context_pack",
+      "default_role_tags": ["regional_context", "non_nuclear_actor"],
+      "caveat": "Scenario-support actor only in Prototype 3.1; not a nuclear doctrine pack."
+    }
+  ]
+}

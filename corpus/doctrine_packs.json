@@ -1,0 +1,121 @@
+{
+  "packs": [
+    {
+      "pack_id": "us_public_doctrine_pack",
+      "actor_id": "united_states",
+      "display_name": "United States public doctrine pack",
+      "hero_ready": true,
+      "incomplete_source_pack": false,
+      "source_ids": ["us_2022_nds_npr_mdr", "us_2024_nuclear_employment_strategy_report"],
+      "pack_caveat": "Official public posture and employment-strategy reporting only; no classified planning is inferred."
+    },
+    {
+      "pack_id": "russia_public_doctrine_pack",
+      "actor_id": "russia",
+      "display_name": "Russia public doctrine pack",
+      "hero_ready": true,
+      "incomplete_source_pack": false,
+      "source_ids": ["russia_2020_basic_principles_nuclear_deterrence", "russia_2021_national_security_strategy"],
+      "pack_caveat": "Official public legal/policy texts are summarized conservatively; English translation limits remain visible."
+    },
+    {
+      "pack_id": "china_public_doctrine_pack",
+      "actor_id": "china",
+      "display_name": "China public doctrine pack",
+      "hero_ready": true,
+      "incomplete_source_pack": false,
+      "source_ids": ["china_2019_defense_white_paper", "china_2015_military_strategy_white_paper"],
+      "pack_caveat": "Official public white-paper material only; no classified employment planning is inferred."
+    },
+    {
+      "pack_id": "nato_public_doctrine_pack",
+      "actor_id": "nato",
+      "display_name": "NATO public doctrine pack",
+      "hero_ready": true,
+      "incomplete_source_pack": false,
+      "source_ids": ["nato_nuclear_deterrence_policy", "nato_2022_strategic_concept"],
+      "pack_caveat": "Alliance declaratory policy only; NATO is treated as an alliance actor with consultation constraints."
+    },
+    {
+      "pack_id": "uk_incomplete_source_pack",
+      "actor_id": "united_kingdom",
+      "display_name": "United Kingdom incomplete source pack",
+      "hero_ready": false,
+      "incomplete_source_pack": true,
+      "source_ids": ["uk_incomplete_source_pack_caveat"],
+      "pack_caveat": "Placeholder pack for actor selection; expand with official UK command paper and review material before hero use."
+    },
+    {
+      "pack_id": "france_incomplete_source_pack",
+      "actor_id": "france",
+      "display_name": "France incomplete source pack",
+      "hero_ready": false,
+      "incomplete_source_pack": true,
+      "source_ids": ["france_incomplete_source_pack_caveat"],
+      "pack_caveat": "Placeholder pack for actor selection; expand with official French speeches and policy material before hero use."
+    },
+    {
+      "pack_id": "india_incomplete_source_pack",
+      "actor_id": "india",
+      "display_name": "India incomplete source pack",
+      "hero_ready": false,
+      "incomplete_source_pack": true,
+      "source_ids": ["india_incomplete_source_pack_caveat"],
+      "pack_caveat": "Placeholder pack for actor selection; official 2003 doctrine material should be expanded before hero use."
+    },
+    {
+      "pack_id": "pakistan_incomplete_source_pack",
+      "actor_id": "pakistan",
+      "display_name": "Pakistan incomplete source pack",
+      "hero_ready": false,
+      "incomplete_source_pack": true,
+      "source_ids": ["pakistan_incomplete_source_pack_caveat"],
+      "pack_caveat": "Placeholder pack; do not present secondary interpretations as official Pakistani doctrine."
+    },
+    {
+      "pack_id": "north_korea_incomplete_source_pack",
+      "actor_id": "north_korea",
+      "display_name": "North Korea incomplete source pack",
+      "hero_ready": false,
+      "incomplete_source_pack": true,
+      "source_ids": ["north_korea_incomplete_source_pack_caveat"],
+      "pack_caveat": "Placeholder pack; official or translated statements must be labelled carefully before hero use."
+    },
+    {
+      "pack_id": "israel_opacity_caveat_pack",
+      "actor_id": "israel",
+      "display_name": "Israel opacity caveat pack",
+      "hero_ready": false,
+      "incomplete_source_pack": true,
+      "source_ids": ["israel_opacity_caveat"],
+      "pack_caveat": "Opacity caveat only; Israel is not treated as having declared public nuclear doctrine."
+    },
+    {
+      "pack_id": "iran_non_nuclear_caveat_pack",
+      "actor_id": "iran",
+      "display_name": "Iran non-nuclear actor caveat pack",
+      "hero_ready": false,
+      "incomplete_source_pack": true,
+      "source_ids": ["iran_non_nuclear_caveat"],
+      "pack_caveat": "Non-nuclear actor caveat only; Iran is not treated as nuclear-armed."
+    },
+    {
+      "pack_id": "japan_scenario_context_pack",
+      "actor_id": "japan",
+      "display_name": "Japan scenario context pack",
+      "hero_ready": false,
+      "incomplete_source_pack": true,
+      "source_ids": ["japan_scenario_context_caveat"],
+      "pack_caveat": "Scenario-support caveat only; not a nuclear doctrine source pack."
+    },
+    {
+      "pack_id": "taiwan_scenario_context_pack",
+      "actor_id": "taiwan",
+      "display_name": "Taiwan scenario context pack",
+      "hero_ready": false,
+      "incomplete_source_pack": true,
+      "source_ids": ["taiwan_scenario_context_caveat"],
+      "pack_caveat": "Scenario-support caveat only; not a nuclear doctrine source pack."
+    }
+  ]
+}

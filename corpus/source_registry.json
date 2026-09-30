@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "us_2022_nds_npr_mdr",
+    "us_2024_nuclear_employment_strategy_report",
+    "russia_2020_basic_principles_nuclear_deterrence",
+    "russia_2021_national_security_strategy",
+    "china_2019_defense_white_paper",
+    "china_2015_military_strategy_white_paper",
+    "nato_nuclear_deterrence_policy",
+    "nato_2022_strategic_concept",
+    "uk_incomplete_source_pack_caveat",
+    "france_incomplete_source_pack_caveat",
+    "india_incomplete_source_pack_caveat",
+    "pakistan_incomplete_source_pack_caveat",
+    "north_korea_incomplete_source_pack_caveat",
+    "israel_opacity_caveat",
+    "iran_non_nuclear_caveat",
+    "japan_scenario_context_caveat",
+    "taiwan_scenario_context_caveat"
+  ]
+}
