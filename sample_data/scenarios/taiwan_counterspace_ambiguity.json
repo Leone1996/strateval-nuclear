@@ -1,0 +1,62 @@
+{
+  "id": "taiwan_counterspace_ambiguity",
+  "name": "Counterspace Ambiguity Near Taiwan",
+  "family": "Ambiguous Dual-Use Escalation",
+  "region": "U.S.–China / Taiwan / Indo-Pacific",
+  "summary": "A fictional counterspace anomaly during a maritime standoff is interpreted differently by U.S., Chinese, Taiwanese, and Japanese decision-makers.",
+  "background": "An unexplained degradation of regional sensing occurs during a blockade-like confrontation. Some advisers argue it is accidental interference; others treat it as deliberate preparation for wider escalation.",
+  "initial_state": "No attack is confirmed, but maritime forces are maneuvering and political leaders face intense media pressure.",
+  "friction_points": ["space ambiguity", "alliance assurance", "maritime blockade", "cross-theater coupling"],
+  "pressure_axis": ["sensor anomaly", "ambiguous counterspace event", "alliance alerting", "off-ramp erosion"],
+  "actor_order": ["United States", "China", "Taiwan", "Japan"],
+  "actors": {
+    "United States": {
+      "political_objective": "Assure partners and prevent coercive escalation.",
+      "military_objective": "Preserve regional access and crisis communications.",
+      "military_position": "Forces are dispersed and dependent on contested sensing.",
+      "escalation_sensitivities": ["alliance credibility", "counterspace ambiguity", "two-peer distraction"],
+      "doctrine_tendency": "extended deterrence with escalation control",
+      "risk_tolerance": 2,
+      "alliance_constraints": "high alliance consultation burden",
+      "domestic_pressure_sensitivity": 3,
+      "nuclear_threshold_assumption": 4,
+      "termination_preference": "negotiated stand-down"
+    },
+    "China": {
+      "political_objective": "Compel restraint without triggering coalition consolidation.",
+      "military_objective": "Control the tempo of conventional pressure.",
+      "military_position": "Theater forces are active but strategic signaling remains cautious.",
+      "escalation_sensitivities": ["sovereignty signaling", "alliance mobilization", "strategic survivability"],
+      "doctrine_tendency": "strategic restraint with conventional pressure",
+      "risk_tolerance": 2,
+      "alliance_constraints": "avoid multi-front coalition dynamics",
+      "domestic_pressure_sensitivity": 3,
+      "nuclear_threshold_assumption": 4,
+      "termination_preference": "frozen conflict with bargaining leverage"
+    },
+    "Taiwan": {
+      "political_objective": "Maintain political continuity and avoid isolation.",
+      "military_objective": "Preserve defensive resilience under uncertainty.",
+      "military_position": "Defensive forces are alert and dependent on external signaling.",
+      "escalation_sensitivities": ["public fear", "communications disruption", "alliance reassurance"],
+      "doctrine_tendency": "defensive resilience",
+      "risk_tolerance": 2,
+      "alliance_constraints": "depends on external support and consultation",
+      "domestic_pressure_sensitivity": 4,
+      "nuclear_threshold_assumption": 5,
+      "termination_preference": "de-escalation with autonomy preserved"
+    },
+    "Japan": {
+      "political_objective": "Protect regional stability and avoid direct escalation.",
+      "military_objective": "Support situational awareness and alliance coordination.",
+      "military_position": "Defensive readiness is elevated but politically constrained.",
+      "escalation_sensitivities": ["homeland risk", "alliance credibility", "public caution"],
+      "doctrine_tendency": "alliance restraint and defensive consultation",
+      "risk_tolerance": 1,
+      "alliance_constraints": "high consultation and legal constraint",
+      "domestic_pressure_sensitivity": 2,
+      "nuclear_threshold_assumption": 5,
+      "termination_preference": "negotiated settlement"
+    }
+  }
+}

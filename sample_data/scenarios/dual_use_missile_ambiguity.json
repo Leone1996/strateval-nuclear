@@ -1,0 +1,50 @@
+{
+  "id": "dual_use_missile_ambiguity",
+  "name": "Dual-Use Missile Ambiguity",
+  "family": "Ambiguous Dual-Use Escalation",
+  "region": "India–Pakistan",
+  "summary": "A fictional missile launch notification dispute creates uncertainty about whether a system is conventional, nuclear-capable, or a signaling test.",
+  "background": "India and Pakistan exchange public accusations after a dual-use-capable missile movement is detected during a regional crisis. Third-party observers disagree about whether the activity is routine, coercive, or a preparation signal.",
+  "initial_state": "Communications are delayed, public narratives harden, and both sides face pressure to avoid looking surprised.",
+  "friction_points": ["dual-use ambiguity", "capability-intent fusion", "domestic pressure", "verification delay"],
+  "pressure_axis": ["routine movement", "ambiguous launch preparation", "warning compression", "off-ramp collapse"],
+  "actor_order": ["India", "Pakistan", "China"],
+  "actors": {
+    "India": {
+      "political_objective": "Deter coercion while preserving space for verification and third-party de-escalation.",
+      "military_objective": "Maintain readiness without creating a launch-on-warning narrative.",
+      "military_position": "Conventional forces are alert but leadership seeks attribution confidence.",
+      "escalation_sensitivities": ["domestic pressure", "missile ambiguity", "third-party signaling"],
+      "doctrine_tendency": "retaliatory deterrence with strong political control",
+      "risk_tolerance": 2,
+      "alliance_constraints": "limited formal alliance constraints but high diplomatic scrutiny",
+      "domestic_pressure_sensitivity": 3,
+      "nuclear_threshold_assumption": 3,
+      "termination_preference": "negotiated settlement"
+    },
+    "Pakistan": {
+      "political_objective": "Avoid strategic surprise and preserve coercive bargaining space.",
+      "military_objective": "Signal survivability without forcing irreversible escalation.",
+      "military_position": "Mobile forces are dispersed under ambiguous warning conditions.",
+      "escalation_sensitivities": ["conventional imbalance", "regime pressure", "warning ambiguity"],
+      "doctrine_tendency": "early threshold sensitivity under conventional pressure",
+      "risk_tolerance": 3,
+      "alliance_constraints": "informal external pressure for restraint",
+      "domestic_pressure_sensitivity": 4,
+      "nuclear_threshold_assumption": 2,
+      "termination_preference": "ceasefire with face-saving guarantees"
+    },
+    "China": {
+      "political_objective": "Prevent regional escalation from spilling into a wider strategic crisis.",
+      "military_objective": "Monitor alerting without becoming a direct party.",
+      "military_position": "Regional surveillance and diplomatic channels are active.",
+      "escalation_sensitivities": ["border stability", "third-party opportunism", "dual-use ambiguity"],
+      "doctrine_tendency": "restraint and strategic survivability",
+      "risk_tolerance": 1,
+      "alliance_constraints": "regional stability concerns",
+      "domestic_pressure_sensitivity": 1,
+      "nuclear_threshold_assumption": 4,
+      "termination_preference": "stabilization and mediation"
+    }
+  }
+}

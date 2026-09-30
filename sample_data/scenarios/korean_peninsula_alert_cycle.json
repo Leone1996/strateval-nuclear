@@ -1,0 +1,50 @@
+{
+  "id": "korean_peninsula_alert_cycle",
+  "name": "Korean Peninsula Alert Cycle",
+  "family": "Peacetime Signaling",
+  "region": "Korean Peninsula",
+  "summary": "A fictional exercise and alert cycle produces reciprocal public warnings and uncertainty about whether signaling is routine or coercive.",
+  "background": "North Korea announces a readiness drill after a multinational exercise. U.S. and allied statements emphasize deterrence, while regional publics worry about misinterpretation.",
+  "initial_state": "No confirmed attack preparation exists, but alert rhetoric creates political pressure.",
+  "friction_points": ["exercise signaling", "declaratory threat", "alliance assurance", "false certainty"],
+  "pressure_axis": ["routine exercise", "rhetorical escalation", "alert posture change", "warning ambiguity"],
+  "actor_order": ["North Korea", "United States", "Japan"],
+  "actors": {
+    "North Korea": {
+      "political_objective": "Signal regime survival and deter coercion.",
+      "military_objective": "Demonstrate survivability without inviting preemption.",
+      "military_position": "Public readiness language is high while real intent is uncertain.",
+      "escalation_sensitivities": ["regime survival", "exercise signaling", "leadership pressure"],
+      "doctrine_tendency": "survival signaling and coercive ambiguity",
+      "risk_tolerance": 4,
+      "alliance_constraints": "limited formal constraints",
+      "domestic_pressure_sensitivity": 4,
+      "nuclear_threshold_assumption": 2,
+      "termination_preference": "frozen conflict"
+    },
+    "United States": {
+      "political_objective": "Assure allies and reduce miscalculation.",
+      "military_objective": "Maintain readiness and crisis communication.",
+      "military_position": "Allied forces are alert but public messaging stresses deterrence.",
+      "escalation_sensitivities": ["alliance assurance", "public warning", "misread exercises"],
+      "doctrine_tendency": "extended deterrence with restraint",
+      "risk_tolerance": 2,
+      "alliance_constraints": "high allied consultation burden",
+      "domestic_pressure_sensitivity": 2,
+      "nuclear_threshold_assumption": 4,
+      "termination_preference": "negotiated stand-down"
+    },
+    "Japan": {
+      "political_objective": "Protect public safety and preserve alliance credibility.",
+      "military_objective": "Support defensive monitoring and coordination.",
+      "military_position": "Civil defense messaging is cautious and non-operational.",
+      "escalation_sensitivities": ["public fear", "missile warning", "alliance consultation"],
+      "doctrine_tendency": "defensive alliance coordination",
+      "risk_tolerance": 1,
+      "alliance_constraints": "high legal and alliance consultation constraints",
+      "domestic_pressure_sensitivity": 3,
+      "nuclear_threshold_assumption": 5,
+      "termination_preference": "de-escalation"
+    }
+  }
+}

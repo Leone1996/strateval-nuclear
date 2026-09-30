@@ -1,0 +1,30 @@
+{
+  "id": "baltic_threshold",
+  "name": "Baltic Threshold",
+  "family": "Crisis Pre-Use",
+  "region": "NATO–Russia / Euro-Atlantic",
+  "summary": "A fictional border crisis near allied territory creates fears of wider conventional escalation.",
+  "background": "A disputed military exercise near a fictional Baltic corridor leads to air and cyber incidents. All sides issue public statements, but private signals are contradictory.",
+  "initial_state": "Forward units are on alert, civilian evacuation rumors spread online, and a hotline exchange is delayed by translation disputes.",
+  "friction_points": ["alliance assurance", "ambiguous warning", "limited conventional clash", "domestic audience costs"],
+  "pressure_axis": ["routine exercise", "border incident", "alliance mobilization", "compressed warning"],
+  "actor_order": ["United States", "NATO", "Russia"],
+  "actors": {
+    "United States": {
+      "political_objective": "Assure allies and deter coercion without transforming the crisis into a strategic confrontation.",
+      "military_position": "Conventional reinforcements are available but vulnerable to misinterpretation."
+    },
+    "Russia": {
+      "political_objective": "Demonstrate resolve and prevent perceived encirclement while preserving bargaining leverage.",
+      "military_position": "Regional forces are postured for rapid signaling but logistics are strained."
+    },
+    "NATO": {
+      "political_objective": "Maintain alliance cohesion and avoid uncontrolled escalation.",
+      "military_position": "Defensive posture is visible but politically contested."
+    },
+    "China": {
+      "political_objective": "Avoid uncontrolled great-power escalation while extracting diplomatic advantage from allied distraction.",
+      "military_position": "No direct theater role, but strategic forces monitor changes in global alert levels."
+    }
+  }
+}

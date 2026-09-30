@@ -1,0 +1,26 @@
+{
+  "id": "two_peer_coupling",
+  "name": "Two-Peer Coupling",
+  "family": "Crisis Pre-Use",
+  "region": "U.S.–Russia–China transregional",
+  "summary": "Separate fictional crises in Europe and the Western Pacific begin to interact through alerts and alliance politics.",
+  "background": "A naval collision in one region coincides with a missile-defense alert in another. Analysts fear that each theater's signals are being interpreted through the other.",
+  "initial_state": "Market volatility, disrupted communications, and social media rumors create incentives for leaders to appear decisive.",
+  "friction_points": ["two-peer escalation", "alliance credibility", "misread alerting", "compressed decision time"],
+  "pressure_axis": ["normal alerting", "coupled theater signals", "compressed decision time", "off-ramp erosion"],
+  "actor_order": ["United States", "Russia", "China"],
+  "actors": {
+    "United States": {
+      "political_objective": "Preserve extended deterrence in both theaters while preventing linked escalation.",
+      "military_position": "Forces are globally stretched and commanders request clearer prioritization."
+    },
+    "Russia": {
+      "political_objective": "Exploit perceived US overstretch without triggering strategic retaliation.",
+      "military_position": "Regional readiness is high, but leaders fear loss of initiative."
+    },
+    "China": {
+      "political_objective": "Signal resolve in the Pacific while avoiding coalition consolidation.",
+      "military_position": "Theater forces are capable of conventional pressure, but strategic signaling is risky."
+    }
+  }
+}

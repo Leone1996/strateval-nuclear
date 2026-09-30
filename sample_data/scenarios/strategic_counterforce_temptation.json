@@ -1,0 +1,26 @@
+{
+  "id": "strategic_counterforce_temptation",
+  "name": "Strategic Counterforce Temptation",
+  "family": "Strategic Employment Stress Test",
+  "region": "U.S.–Russia–China transregional",
+  "summary": "A fictional warning anomaly and conventional losses create pressure to consider dangerous strategic substitution.",
+  "background": "A conventional campaign goes badly for several actors after a sensor outage and false alert. Advisers debate whether stronger signals could restore deterrence.",
+  "initial_state": "No confirmed nuclear launch has occurred, but leaders receive fragmentary reports and rival media claims imminent escalation.",
+  "friction_points": ["false warning", "strategic substitution", "counterforce temptation", "catastrophic downside"],
+  "pressure_axis": ["false warning", "conventional collapse", "counterforce temptation", "last-rung substitution"],
+  "actor_order": ["United States", "Russia", "China"],
+  "actors": {
+    "United States": {
+      "political_objective": "Restore deterrence credibility while avoiding irreversible strategic escalation.",
+      "military_position": "Conventional options are available but slower than political leaders prefer."
+    },
+    "Russia": {
+      "political_objective": "Prevent defeat narratives and keep adversaries uncertain about thresholds.",
+      "military_position": "Some assets are exposed, increasing fear of preemption."
+    },
+    "China": {
+      "political_objective": "Preserve strategic stability and avoid being drawn into a counterforce exchange.",
+      "military_position": "Forces are dispersed and leadership prioritizes survivability."
+    }
+  }
+}
