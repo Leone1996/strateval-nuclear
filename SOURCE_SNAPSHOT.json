@@ -1,0 +1,818 @@
+{
+  "snapshot_date": "2026-09-30",
+  "source_folder": "https://drive.google.com/drive/folders/1xAM2EBaJ26hOwRVX5-Ltg_V21u5wcKzJ",
+  "files": [
+    {
+      "path": "verification_utilities/__pycache__/inspect_gemini_sdk.cpython-313.pyc",
+      "size": 5992,
+      "sha256": "5152109d7c2a65787e363ede1be6d221598112abf8da55c56db8225b934a94bd",
+      "drive_id": "1s-x3p7FP13kIkfgDhWSQ7emDE_bUmQDD",
+      "modified_time": "2026-06-27T04:57:14.000Z"
+    },
+    {
+      "path": "verification_utilities/__pycache__/smoke_gemini_actor_decision.cpython-313.pyc",
+      "size": 7039,
+      "sha256": "3cec7a6db4d878a9122f4178fb4f51948afb4e534222a2505dc02b543eb5ebd8",
+      "drive_id": "1h_LXq78bXupVYd1LRUmTLAi-teBwIRme",
+      "modified_time": "2026-06-27T04:57:14.000Z"
+    },
+    {
+      "path": "verification_utilities/__pycache__/smoke_gemini_coded_primary.cpython-313.pyc",
+      "size": 5498,
+      "sha256": "f3130f9acf4a34b42a925b897c51f18471e067342b0325ee61a7c846c9cc2de3",
+      "drive_id": "10pGZt699PHOGZLqVNU1LdK-1is3ZkuOL",
+      "modified_time": "2026-06-27T04:57:14.000Z"
+    },
+    {
+      "path": "verification_utilities/__pycache__/smoke_gemini_native_structured.cpython-313.pyc",
+      "size": 5752,
+      "sha256": "76743cc4fde36362f994ce8f3d25c380d55a84742d9427175738962b4ad56798",
+      "drive_id": "1-iD7LfKp4vMkymiobN3w8IhXY3H80im1",
+      "modified_time": "2026-06-27T04:57:14.000Z"
+    },
+    {
+      "path": "verification_utilities/__pycache__/smoke_gemini_ok.cpython-313.pyc",
+      "size": 2865,
+      "sha256": "626f17e30adc4b6ebc624f3b7b6db7fa9ac1249073cb706334bda65a7df398c0",
+      "drive_id": "1-wzz8MwY6cOQ3BN_y8QtdHIH3uv0XFf9",
+      "modified_time": "2026-06-26T09:47:21.000Z"
+    },
+    {
+      "path": "verification_utilities/__pycache__/smoke_openai_actor_decision.cpython-313.pyc",
+      "size": 5475,
+      "sha256": "def0c9b33e4503bce7aa05155cfc9aabff0b271733a2aa94153e4d724297366b",
+      "drive_id": "1SZZihBvqQVtaQCA_eTyDhqBb3PlDTUch",
+      "modified_time": "2026-06-25T14:46:15.000Z"
+    },
+    {
+      "path": "verification_utilities/smoke_gemini_actor_decision.py",
+      "size": 5432,
+      "sha256": "d7f7719b20de13aa3cddb495e8421f45363bd5322f628e0a9455e595a57c687e",
+      "drive_id": "1vbCnV1Ee98GCchG4zdnx9vT1jZNsuswj",
+      "modified_time": "2026-06-27T04:54:09.000Z"
+    },
+    {
+      "path": "verification_utilities/smoke_gemini_coded_primary.py",
+      "size": 3922,
+      "sha256": "cc98e66f18582bc9d58895b7c78cc85accc3cb4e31d86d199d0716956a56d2ad",
+      "drive_id": "19CfAuVOoATcfY0FDJXIt8nv47MHd7ETf",
+      "modified_time": "2026-06-27T04:52:24.000Z"
+    },
+    {
+      "path": "verification_utilities/smoke_gemini_native_structured.py",
+      "size": 4074,
+      "sha256": "fde48f9acf7bc457050256a633a9cc81c424096cad4c6b24903270e078898856",
+      "drive_id": "1Ugal2joLJ69cQie4TAFzYHsNZi8UrT5D",
+      "modified_time": "2026-06-26T21:18:41.000Z"
+    },
+    {
+      "path": "verification_utilities/inspect_gemini_sdk.py",
+      "size": 4331,
+      "sha256": "7150a8709734136128e66a249e3a4f1c5341148d09799f7c9d10dda708a362c6",
+      "drive_id": "1iBwEtBCAnH5McN2Z2DMoQb8bGIeian2N",
+      "modified_time": "2026-06-26T21:18:03.000Z"
+    },
+    {
+      "path": "verification_utilities/smoke_gemini_ok.py",
+      "size": 1752,
+      "sha256": "fcc1e0dace3d49e4ef9f7ca7fd6737349b9afd69490d1cf31b3a9a679156b61a",
+      "drive_id": "1S96l6Gq7iWcAGyvuASfKzGVBPE8fSaGZ",
+      "modified_time": "2026-06-26T09:47:00.000Z"
+    },
+    {
+      "path": "verification_utilities/smoke_openai_actor_decision.py",
+      "size": 3924,
+      "sha256": "b9b7b5da281b109eef88fb138c9629800e340eef75045d4a06cec6b44aed6cfe",
+      "drive_id": "1xGLwUK7Qzisa7IAgmWSmiiNg9nctr_4n",
+      "modified_time": "2026-06-25T14:45:14.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/actor_registry.cpython-313.pyc",
+      "size": 12177,
+      "sha256": "70349784e0a214f81ca7836b7bda17a8c35af3e42d3382fc11a17e070e2238a1",
+      "drive_id": "1kHX4BqR4Mi9NST-SmOmiVuz1WXzs9UQ8",
+      "modified_time": "2026-06-27T12:40:26.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/storage.cpython-313.pyc",
+      "size": 30836,
+      "sha256": "0e3e1971590608a3a96375b167f136515ec8e1ec57cd620febca7cf38257d3d2",
+      "drive_id": "1I5owfdm5p8OCoPAAPdqHLgoBHC8JD4Iu",
+      "modified_time": "2026-06-27T12:38:50.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/analytics.cpython-313.pyc",
+      "size": 35976,
+      "sha256": "151482a4a671331901f816d37c58d35754f6832c47981cc5e77435707d10b39c",
+      "drive_id": "1ydw21u27mzCgrEGXIrNIDvlNv6COltYl",
+      "modified_time": "2026-06-27T12:38:48.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/model_adapters.cpython-313.pyc",
+      "size": 81981,
+      "sha256": "9688b1d25d38face560d24c832f7f7a3c9c8512808e6447fd4ef7283cc3ddffc",
+      "drive_id": "1LZ8hw_Et1pDa2fCqoprxXsK_Hf0i6r_U",
+      "modified_time": "2026-06-27T12:38:48.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/prompts.cpython-313.pyc",
+      "size": 2853,
+      "sha256": "bb1d966d48422dc2b14e580bec41f83c4f4fa94d5c07e066f7f70c2cac3b6127",
+      "drive_id": "1qWmFpRv6GVWYp6nZsNKCcoErQmdXrYUp",
+      "modified_time": "2026-06-27T12:38:48.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/schema.cpython-313.pyc",
+      "size": 11723,
+      "sha256": "158a05bd022b467499fa57b70dbb5dc03f92ab76f66b4038d91454a2e8add5a2",
+      "drive_id": "11T2e2-8QQroIRwIKPwwjpnJepiTUbUvv",
+      "modified_time": "2026-06-27T12:38:48.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/simulation.cpython-313.pyc",
+      "size": 18418,
+      "sha256": "522b7925cb87b0813ba14cc2679e60d23462e0fd3cb570e59312a749f510633e",
+      "drive_id": "1Pc7JaQc0hpwYJCXZ0acTCTyBwsZ6wBfH",
+      "modified_time": "2026-06-27T12:38:48.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/ui_logic.cpython-313.pyc",
+      "size": 32818,
+      "sha256": "b909520200acefd6348f14b046509964f9af96fc41390fc0c4482c976e129510",
+      "drive_id": "1qkaMRqx7XdHDPCfo2MvOod1r8Zoi8moX",
+      "modified_time": "2026-06-27T07:55:50.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/evaluator.cpython-313.pyc",
+      "size": 25504,
+      "sha256": "d37f994e68d4517828265df625602b4da0e0648b3e2eb3488f78d84243e12512",
+      "drive_id": "13JkdvkjybmCrbGJQXs8mSCzIEOiG8fwG",
+      "modified_time": "2026-06-25T15:47:24.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/__init__.cpython-313.pyc",
+      "size": 270,
+      "sha256": "56cabc8fff1d0878069f3731a2b58388cf8e617ae52f423d5824fbcb4d92bdcb",
+      "drive_id": "1iatXn8o-YzDEKjedyyywIhp9suhMcdLW",
+      "modified_time": "2026-06-24T21:02:30.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/agents.cpython-313.pyc",
+      "size": 14603,
+      "sha256": "a984e2941881a59f316aabc6f73c09ec29c62977e29746de68c48dea39fe5dda",
+      "drive_id": "1dmVROj0ow5TLG9_AibB0yUMHbl-MPgbV",
+      "modified_time": "2026-06-24T21:02:30.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/corpus.cpython-313.pyc",
+      "size": 2786,
+      "sha256": "90098a61d67dac49ddbbf698358881b3b3b0dee1fbe73fef8e941417900be878",
+      "drive_id": "1pSf3eK-xZeER7iN42Fd70icq7A6QplqB",
+      "modified_time": "2026-06-24T21:02:30.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__pycache__/retrieval.cpython-313.pyc",
+      "size": 5291,
+      "sha256": "ab809cbfd18786d60cfca41075e9599ae9f187de4a2058aafc44916524697f22",
+      "drive_id": "19AEeMD1LULyNVqrclUd_fMp3CbjAKGUm",
+      "modified_time": "2026-06-24T21:02:30.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/actor_registry.py",
+      "size": 8596,
+      "sha256": "91060cbde7b40c067c2dfb5d62aa95444181aaaec7527e1a0f6e6784a7fc48bd",
+      "drive_id": "15vcbYR2svbCvtTMjwod4BjvaZTTMp2Wl",
+      "modified_time": "2026-06-27T12:40:14.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/storage.py",
+      "size": 22453,
+      "sha256": "9b4abfbeb15fcdf87167ba4ed38e5cf37c7a9dc36309c5adf9f5945127814e11",
+      "drive_id": "1IAmwUAEPo3CpyRI8p_3SiOAhhOyZtGDM",
+      "modified_time": "2026-06-27T12:34:38.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/analytics.py",
+      "size": 27201,
+      "sha256": "0bd9bf03c19fb3ef8c4dbb9c52699731ce75a590b330e6ab5e83c6b731b6554c",
+      "drive_id": "1vAdR6kjFYbkLaF0HQ8tW0eCr_ObEi9eq",
+      "modified_time": "2026-06-27T12:34:19.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/simulation.py",
+      "size": 15550,
+      "sha256": "dd0eacda322a4aca823b3381c48cd9f98045e79c5b7a09418935a78f9a56e5d0",
+      "drive_id": "1j6TxsPzquV0ODWZBkqjpCvEf2sSJgUuw",
+      "modified_time": "2026-06-27T12:34:13.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/model_adapters.py",
+      "size": 75540,
+      "sha256": "4db93adc7d412b6e5db002ae624dc8ffc581cf88ef8978557a80991d5cd90c01",
+      "drive_id": "1RmlBAt2_UJejZFdWo6bnDmFByRqzZDxu",
+      "modified_time": "2026-06-27T12:33:45.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/prompts.py",
+      "size": 1452,
+      "sha256": "ffe9307d7190eb5455d83468795c96217d5108abe8974bbde49696cc94ebe824",
+      "drive_id": "1R2o5maSdhbFlfeDXC8LZ_SkRvYoiUCiU",
+      "modified_time": "2026-06-27T12:33:21.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/schema.py",
+      "size": 7398,
+      "sha256": "44ae0ec1bd503977a876e35e48df4ebc1c182b717f883900a6af7fac4795aec8",
+      "drive_id": "1zsZltXMp5YZVlHtGberGl7CxQKZ2-z1d",
+      "modified_time": "2026-06-27T12:33:15.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/ui_logic.py",
+      "size": 23270,
+      "sha256": "3e93ae985de910d4c179c96156d12e93d4823876cd2d2ac4a343214fb98659d6",
+      "drive_id": "1dgnC6n83ZfLb7jlwwqtRJATrxQWLmWCy",
+      "modified_time": "2026-06-27T07:51:37.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/evaluator.py",
+      "size": 17470,
+      "sha256": "229c0d2179bdf73ea5c4beed5d4561c0dfaa86f1034dc6c813cff5a65c2b0ca3",
+      "drive_id": "1PZl_TQrxec0a3m9WSf7Z86ub0gFn9aAq",
+      "modified_time": "2026-06-25T15:45:53.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/agents.py",
+      "size": 13641,
+      "sha256": "4007c8281f40075ca90acf9b00173b5897f3a619c33cf64d0cb0593d8e315301",
+      "drive_id": "1aBFnpMQbYNbTvMErkfe6d8cm8NyhxWVq",
+      "modified_time": "2026-06-24T21:00:39.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/retrieval.py",
+      "size": 2979,
+      "sha256": "f290270b2be50bbaa916621e18395040b67bf8c1b6b4a7fd94f3a287443e9192",
+      "drive_id": "1VwaL514AWhdzQ0mN9seti9hUAPmWmkEh",
+      "modified_time": "2026-06-24T21:00:06.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/__init__.py",
+      "size": 180,
+      "sha256": "d7c75da8c68405abc0864cd50c857a8cd001cb6c927fd10b2d7448f173846fe8",
+      "drive_id": "15FkjQdijklENvS4l6rfpD-U-d2kJmhWd",
+      "modified_time": "2026-06-24T14:44:36.000Z"
+    },
+    {
+      "path": "strateval_pythonscripts/corpus.py",
+      "size": 1572,
+      "sha256": "d4844a219881922eb2af9d45d0ef57e740f8c8ec3424cc8bb1d863b2fe94d255",
+      "drive_id": "13gQd6Lhhm7ZBdqKwFnwvNZ2DroWzZf1h",
+      "modified_time": "2026-06-24T14:44:36.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_strateval.cpython-313.pyc",
+      "size": 78457,
+      "sha256": "076a0a5782c80fb9cfc20bba9c65fab89fd682fddd32ac14a88081d5af371658",
+      "drive_id": "1aCIXoZb5Qe0i74vLPD9SjwyOCuBPAkJy",
+      "modified_time": "2026-06-27T19:48:56.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_strateval.cpython-313-pytest-9.1.1.pyc",
+      "size": 260005,
+      "sha256": "bf997f58cde8dc32f88b58bfc40629c0f6ddd24319785d7dd2f1f7b6825685a3",
+      "drive_id": "1nx3A9QBDsZx0XZrwIhjSP1LcXOgCmHnL",
+      "modified_time": "2026-06-27T19:48:03.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_calculus.cpython-313.pyc",
+      "size": 641,
+      "sha256": "3fd18afa592ec413fdecc29d6bd14c42f5418cfdd956a168e39c7350f48c560b",
+      "drive_id": "16V7s5d9QnqnOnz1zSK3DxVJ83ghvfMg3",
+      "modified_time": "2026-06-27T13:09:36.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_comparison.cpython-313.pyc",
+      "size": 3100,
+      "sha256": "0c64eec980865200b53e44e34d27f5e6b85f043e2fbda1bcc8e603d956f5910b",
+      "drive_id": "10ggMWpDKlNP2dgG5Pfba6W7Lx57vJnWh",
+      "modified_time": "2026-06-27T13:09:36.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_evaluator.cpython-313.pyc",
+      "size": 8941,
+      "sha256": "8b364086122913dff5a78dc7dd9f21d47ba303660eb932843ab347d4b1d2fd1f",
+      "drive_id": "1uPK_lQ8_pzbMn-xJBEPrJAt_--G75WN5",
+      "modified_time": "2026-06-27T13:09:36.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_schema.cpython-313.pyc",
+      "size": 1328,
+      "sha256": "573ed2c59801d5a727bff6dabc58003152d4d01d6d4219ce51b55dfb96ce2519",
+      "drive_id": "1lCbLRq3TcFElyCCEsdOb9u-lkzczqvc-",
+      "modified_time": "2026-06-27T13:09:36.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_evaluator.cpython-313-pytest-9.1.1.pyc",
+      "size": 17590,
+      "sha256": "b729a4bf1c66f6377b0abecd268f01ce427b4b1c52ee13ab30b10fa796a2dfe6",
+      "drive_id": "18bGUAs1xJIrRBHelf4BI3QMuggrUXPYw",
+      "modified_time": "2026-06-25T15:44:18.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_comparison.cpython-313-pytest-9.1.1.pyc",
+      "size": 9324,
+      "sha256": "5fffb354f8699c4b15237d7893c1065ead556d48ff60d08f474903cfc63d643e",
+      "drive_id": "1P7eDwjSQCkCxFo06izeKzgQDhrmQGJR2",
+      "modified_time": "2026-06-24T15:17:19.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_calculus.cpython-313-pytest-9.1.1.pyc",
+      "size": 2986,
+      "sha256": "5d399f377489ab72eb831d1783953f1488a937d300265367a8b6db579290d584",
+      "drive_id": "1Jevlpi74tGNEpaAwB5OdPJNJCuFcCfJ7",
+      "modified_time": "2026-06-24T14:48:56.000Z"
+    },
+    {
+      "path": "tests/__pycache__/test_schema.cpython-313-pytest-9.1.1.pyc",
+      "size": 1536,
+      "sha256": "b7c15e09c82b54e4eea205de31b26f5865d3979d2b089aea72780f9bccdbfaed",
+      "drive_id": "1xCj9bmkqWYkLEUhpzpE4JiV-fin1W53R",
+      "modified_time": "2026-06-24T14:48:56.000Z"
+    },
+    {
+      "path": "tests/test_strateval.py",
+      "size": 68344,
+      "sha256": "b76a9ffed5598e19eca0eb000a17ed501a8d132a38a0035bc55a58b9f4114c45",
+      "drive_id": "1lb31lHa11tkiw9W3Es9wUc9_irTYmgdw",
+      "modified_time": "2026-06-27T19:47:52.000Z"
+    },
+    {
+      "path": "tests/test_evaluator.py",
+      "size": 6634,
+      "sha256": "090a3fce22a728357f1d4434f9ba49c1bfc4dae4a6a13bd760b98aabe2f56b73",
+      "drive_id": "196itN9NJOg8BDBE0oGIMhe87pMsZBUI7",
+      "modified_time": "2026-06-25T15:44:08.000Z"
+    },
+    {
+      "path": "tests/test_comparison.py",
+      "size": 2515,
+      "sha256": "b51161974e9905b9ae8407d3d71b39470c87013e8fdc2672a9a90987b34bce52",
+      "drive_id": "1q0qmqJq4ajsLyabV9JZagzFlnoP_Rlt5",
+      "modified_time": "2026-06-24T15:17:04.000Z"
+    },
+    {
+      "path": "tests/test_calculus.py",
+      "size": 259,
+      "sha256": "ea12512842d91059802270a6df22cfa55fb91175a3dc6aab49073a973b8a5aa4",
+      "drive_id": "1uoovzKHAJbKbvofFVOZuHIdMSGYPusbX",
+      "modified_time": "2026-06-24T14:45:36.000Z"
+    },
+    {
+      "path": "tests/test_schema.py",
+      "size": 968,
+      "sha256": "a4019789d375d66c177ec9f4dc8fb42ed48cf00980aa44ebd96d4aaf0a8a8ee5",
+      "drive_id": "1AsdgIo5VGBgK7XyRIBUpUjhoCchj17wp",
+      "modified_time": "2026-06-24T14:45:36.000Z"
+    },
+    {
+      "path": "corpus/source_cards/india_incomplete_source_pack_caveat.json",
+      "size": 1109,
+      "sha256": "94f663d69a4014f578e4ecf1022b8d614d20161ad17ebf293fa93d21096aebd8",
+      "drive_id": "1tQiaVFQZ8240vYEc0N-DOoDOQ45Vzzf9",
+      "modified_time": "2026-06-27T12:32:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/iran_non_nuclear_caveat.json",
+      "size": 1027,
+      "sha256": "786c5a9f05236bb49eb490418d5c23ccadbd6f2d111d5d974705954e9c65c439",
+      "drive_id": "11KuZNrxgQw2-HeIb-T1BfXgh7Oxqx0NS",
+      "modified_time": "2026-06-27T12:32:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/israel_opacity_caveat.json",
+      "size": 1037,
+      "sha256": "7be81331de4aa8b035e5eae1f78ba92189363757700f8cf349cfa16dd6629438",
+      "drive_id": "1Qwhqnh_6GMQjyzoh24Grjw4l_aPa-uNc",
+      "modified_time": "2026-06-27T12:32:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/japan_scenario_context_caveat.json",
+      "size": 968,
+      "sha256": "c17011fcccb49c7e8b4dfda9457aa8d14d1561e80f9bbb1cbbef481f0178e555",
+      "drive_id": "1c3nFvAOWpwRWjy2JRHNRiiu2m-IHewzG",
+      "modified_time": "2026-06-27T12:32:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/north_korea_incomplete_source_pack_caveat.json",
+      "size": 1157,
+      "sha256": "d56f7523fb0b3a0204b4279344de065f27ccad5aba609045d09ef1f043db9327",
+      "drive_id": "16-g4g05ceI9ZRuSh0bSyOvcJ3QFng1LF",
+      "modified_time": "2026-06-27T12:32:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/pakistan_incomplete_source_pack_caveat.json",
+      "size": 1211,
+      "sha256": "24eca0d517db6da34b115517ed4166250b5dcfe41d48cb099150866ab133bcff",
+      "drive_id": "1m6DHApIWValG79FjvMePEJrklCETjFd1",
+      "modified_time": "2026-06-27T12:32:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/taiwan_scenario_context_caveat.json",
+      "size": 970,
+      "sha256": "2560e0b6dfb3ea35b59931466adb4c8e37530988c6621683409eae9d0d7d3821",
+      "drive_id": "1F2w9oT0KkgkdWfi-O9Lnt5KmX3n7MPF2",
+      "modified_time": "2026-06-27T12:32:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/france_incomplete_source_pack_caveat.json",
+      "size": 1129,
+      "sha256": "84d3e6044509644ed8395b2df0e326ac3c04e15d81255a4787eff15dd094cb56",
+      "drive_id": "129me7bDNuAf9gItQ0ImED8yccTttOlL-",
+      "modified_time": "2026-06-27T12:32:16.000Z"
+    },
+    {
+      "path": "corpus/source_cards/uk_incomplete_source_pack_caveat.json",
+      "size": 1126,
+      "sha256": "1644c85a161c639bfb105a1ad04a6cd7f388dde0f9d4318e138aba8ddf79d5ce",
+      "drive_id": "1fNeYoiNdcgiG_73ejPMhXaOnP75zExph",
+      "modified_time": "2026-06-27T12:32:16.000Z"
+    },
+    {
+      "path": "corpus/source_cards/china_2015_military_strategy_white_paper.json",
+      "size": 1142,
+      "sha256": "a34feb613d35e5d6e5d8fa1ce2173cce6846b13165411d657c5a26efd7ec8473",
+      "drive_id": "1g5r3AwBQXwJbm4b6_WtNIAUgOFHCdDgR",
+      "modified_time": "2026-06-27T12:31:18.000Z"
+    },
+    {
+      "path": "corpus/source_cards/russia_2020_basic_principles_nuclear_deterrence.json",
+      "size": 1369,
+      "sha256": "deea7a331f0fdf445cf71920f402d8fc39daeb95fb63ede8e36d9e09dda6a008",
+      "drive_id": "18Vqrl1vOkxkjLXlmJoQfj_XMTuLphm9l",
+      "modified_time": "2026-06-27T12:31:18.000Z"
+    },
+    {
+      "path": "corpus/source_cards/russia_2021_national_security_strategy.json",
+      "size": 1171,
+      "sha256": "ac8cdb6e72c3ea7d2ec2d9859c34debfaebcc859472efe4ac59edcf2fe7ae7eb",
+      "drive_id": "19_Ri_UF5QEukNrxZEDRseYrGmHiAqRVE",
+      "modified_time": "2026-06-27T12:31:18.000Z"
+    },
+    {
+      "path": "corpus/source_cards/china_2019_defense_white_paper.json",
+      "size": 1232,
+      "sha256": "64da11519340aa1c6e4c562d8e71b8030b19153a55154578b7eb026dea7cd60d",
+      "drive_id": "1MGrQaAX7irunBI0_KU3xGjmzY8CIVNTN",
+      "modified_time": "2026-06-27T12:31:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/nato_2022_strategic_concept.json",
+      "size": 1096,
+      "sha256": "3183b6b4d7be4b4d5d8ff3f4c19ef5ab1389159764a92bcce567af9336884703",
+      "drive_id": "13pEtzOWrNyS3mZuJpx1T6W62d6ywulZA",
+      "modified_time": "2026-06-27T12:31:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/nato_nuclear_deterrence_policy.json",
+      "size": 1213,
+      "sha256": "e0546fd65fb74a81a2bb247bb497593e454adc89b37a36602117db9ef88f85e6",
+      "drive_id": "1JU2gjuInOsEY-j-dLOgQHGD7_mGG1ZnW",
+      "modified_time": "2026-06-27T12:31:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/us_2022_nds_npr_mdr.json",
+      "size": 1440,
+      "sha256": "73484e974d890800f3130c0a18f3507fd6a9804a1ecb97c77d1aaa1e6ccb35f2",
+      "drive_id": "1DCt2ECzSJvryXJ7tahBDOkuditF7WejS",
+      "modified_time": "2026-06-27T12:31:17.000Z"
+    },
+    {
+      "path": "corpus/source_cards/us_2024_nuclear_employment_strategy_report.json",
+      "size": 1343,
+      "sha256": "fc574d9dc0905f0d7e43d052ec72d89cb6c4b0dd09ade77be63c56ab2ec7313b",
+      "drive_id": "1tWQeoBsqSps_mcOAv9nDObx-zP1zioTj",
+      "modified_time": "2026-06-27T12:31:17.000Z"
+    },
+    {
+      "path": "corpus/source_registry.json",
+      "size": 716,
+      "sha256": "2dbf8c63bad682a6a55d0bdfef47126f35753231cd9d6e9a97ef1a8cebd3484b",
+      "drive_id": "1NIA8lTHwdZtbYPxx9BVSzZpPKoryVuMI",
+      "modified_time": "2026-06-27T12:30:20.000Z"
+    },
+    {
+      "path": "corpus/actor_registry.json",
+      "size": 5649,
+      "sha256": "96a5d165be360f775b9dd77fc6f9f1ea148e80d03a5b62cf8c50097e9106558c",
+      "drive_id": "14WcKOazqeL9cFZuJ6tx9NdTI1F6_Dnfk",
+      "modified_time": "2026-06-27T12:30:19.000Z"
+    },
+    {
+      "path": "corpus/doctrine_packs.json",
+      "size": 5185,
+      "sha256": "b87a6f7d71b98329457ff77017bcc590a05ae0bd0de5ddf12c3a3a928c83964f",
+      "drive_id": "1UYjeirqQJzGc8tY86T1NMf53r4epPZoD",
+      "modified_time": "2026-06-27T12:30:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/ai_adviser_dissent.json",
+      "size": 275,
+      "sha256": "a54e5d7d22af4671879ff61c210b698e1ed4a4131dc0e571699214781ba913e1",
+      "drive_id": "1tPj_vBVdzrxwDG69axpanxxR2zk-laht",
+      "modified_time": "2026-06-24T19:41:20.000Z"
+    },
+    {
+      "path": "sample_data/treatments/ai_adviser_sycophancy.json",
+      "size": 266,
+      "sha256": "ee540e978254117a1611c847f15ac75d08b7c160fbce123a4aaf9de35d0781b0",
+      "drive_id": "1jlkHQ2FIfU6jGxK3UleWsXfFdOA__Jz9",
+      "modified_time": "2026-06-24T19:41:20.000Z"
+    },
+    {
+      "path": "sample_data/treatments/economic_energy_shock.json",
+      "size": 258,
+      "sha256": "4030e16cb934a5b197f3dcd53fafc1153afdca548e9484f096eccd655d15ac28",
+      "drive_id": "1tbDt97lguWPAkPidd0eC6htrQC_Z-o9I",
+      "modified_time": "2026-06-24T19:41:20.000Z"
+    },
+    {
+      "path": "sample_data/treatments/humanitarian_shock.json",
+      "size": 230,
+      "sha256": "d62f5addef375c259a75220c1d9bb56589fe50342758bd6e997f8959d664f411",
+      "drive_id": "1fynuONgKga3JPUJZVVPLsQt4ZgMePaZ1",
+      "modified_time": "2026-06-24T19:41:20.000Z"
+    },
+    {
+      "path": "sample_data/treatments/regime_instability.json",
+      "size": 245,
+      "sha256": "bada7eae1b3be6027e9da4497dd0870ab51df9bb4d4978a24d4ec486126bccb7",
+      "drive_id": "1tG-S-XTaKa3Ih57Bz1SkFptJpUI_bkv6",
+      "modified_time": "2026-06-24T19:41:20.000Z"
+    },
+    {
+      "path": "sample_data/treatments/third_party_opportunism.json",
+      "size": 260,
+      "sha256": "745cea4ed9bbcb01fbe61e840e3498abf2a88bd74a887b0c38ab7346c90c9da6",
+      "drive_id": "14t1OCfpa40REVYIhA0UrsD_6MCQEN0h7",
+      "modified_time": "2026-06-24T19:41:20.000Z"
+    },
+    {
+      "path": "sample_data/treatments/adversary_resolve_signal.json",
+      "size": 286,
+      "sha256": "45c37fec08cb1edf9220a52c9ebcfd1b4dc67f9be42c2a1d3cfadfdcd0c14a80",
+      "drive_id": "1EhW4XXgsPWQZmQoouBL-K9Gv7Yya_pg6",
+      "modified_time": "2026-06-24T19:41:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/alliance_fracture.json",
+      "size": 249,
+      "sha256": "5080de7a819e6be51a05a85717209a8b189c47051e47451b3ab8693bbb5830f8",
+      "drive_id": "1Gd-WkDqcOIXADwu4-9XVvXyiXbn8SQXm",
+      "modified_time": "2026-06-24T19:41:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/ambiguous_intelligence.json",
+      "size": 265,
+      "sha256": "f1c6d6ca7b555a3012929f7bec385df9b6fef7f9ed0e48ee0eee87b8861a52f9",
+      "drive_id": "18GrZaPxpS8PJiQlIjoLgL7r0Z_qZoig_",
+      "modified_time": "2026-06-24T19:41:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/counterforce_temptation.json",
+      "size": 267,
+      "sha256": "18b9b00b9d94a12e773f4894ca2a16f90fa0eaa7fe22544ba9cbf7b49f43ba97",
+      "drive_id": "1rhdP6rroRUn9-MNA9lr9Hu6jqjd9KdI9",
+      "modified_time": "2026-06-24T19:41:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/cyber_disruption.json",
+      "size": 274,
+      "sha256": "8465c186d2c342e8ade9ad2337c03f4cdb0a0b0ac9b92154c6f458fe75ec3631",
+      "drive_id": "1MIxe2qehW6Q-1SqAyefaFT-BDF2IFhsu",
+      "modified_time": "2026-06-24T19:41:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/degraded_communications.json",
+      "size": 258,
+      "sha256": "5ae2ff7a743a63a58b830c2f4a77e6a9aa75e0fa5c9633ab5f80bea47c06c4db",
+      "drive_id": "1Z0qsieumyzaWBIOiAH5NdVyOZ8H3yO9R",
+      "modified_time": "2026-06-24T19:41:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/false_warning.json",
+      "size": 246,
+      "sha256": "cbd5c73c0fe2f3552dbb726b559c3780f565fc750117d69ca43112b77ebe95f1",
+      "drive_id": "1Z6IuA3gNKYJknFdO0ROunQ0pVHHClEaW",
+      "modified_time": "2026-06-24T19:41:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/missile_defense_confidence.json",
+      "size": 283,
+      "sha256": "4c37db2f789bb72d8b9c4a1afebeeb183557522a80bf22263d77a9cfbf5ba7c9",
+      "drive_id": "1LNQVrn47j-GD0BBqbrzCqd72fqG7DRC3",
+      "modified_time": "2026-06-24T19:41:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/war_termination_offer.json",
+      "size": 252,
+      "sha256": "c1dac2440684e1b2570b9f781b803a04c3d4e11ec29dc571a3b6c92a5ffde88c",
+      "drive_id": "1z67nqZLeSK_eJcUOz2V3kgOwb8QeN1r8",
+      "modified_time": "2026-06-24T19:41:19.000Z"
+    },
+    {
+      "path": "sample_data/treatments/baseline.json",
+      "size": 277,
+      "sha256": "55821885819e6a353e0197c61581e059755552d0e8abaf747f2ed73ce5c147f8",
+      "drive_id": "108CESD7rE_ZCy_qsqtOaJr8ey8kZibVC",
+      "modified_time": "2026-06-24T14:45:36.000Z"
+    },
+    {
+      "path": "sample_data/treatments/casualty_salience.json",
+      "size": 285,
+      "sha256": "ec0984ebaf18dcb9b9b6cf089ad773968955701bb1e5f56efa7b7ad403abf8b1",
+      "drive_id": "1dbdTihTy2pOHNbfQwDhbn-qRqKtctdLK",
+      "modified_time": "2026-06-24T14:45:36.000Z"
+    },
+    {
+      "path": "sample_data/treatments/conventional_collapse.json",
+      "size": 282,
+      "sha256": "24037d9ac206ac80e7649cdd161e1ce00e7dac1884cf843f8ea41e2f15f08b04",
+      "drive_id": "177a-b7KovjPnYcUJXefXOlbrKQZFHEud",
+      "modified_time": "2026-06-24T14:45:36.000Z"
+    },
+    {
+      "path": "sample_data/treatments/historical_analogy.json",
+      "size": 290,
+      "sha256": "e72d8f3bef039dc21913023ddeba920e0649957ff04273219dac5f32332f5e5b",
+      "drive_id": "1GXecUEGtjnyfy3OOpmOsJyblhHYT4Lqo",
+      "modified_time": "2026-06-24T14:45:36.000Z"
+    },
+    {
+      "path": "sample_data/treatments/political_pressure.json",
+      "size": 285,
+      "sha256": "5db845fa7f390c74275e07c43c52bb03c67a9eb10a9b6a78e2ea336759a9f54a",
+      "drive_id": "14vEHNpN0MvEEueYKljqb4iOGGzi1YZJl",
+      "modified_time": "2026-06-24T14:45:36.000Z"
+    },
+    {
+      "path": "sample_data/rubric/eval_rubric.json",
+      "size": 420,
+      "sha256": "34cc2610ce783a86af53f8b6d396dc20b3373982374e6b91808b96a837ebca76",
+      "drive_id": "1CGN3b4DUvogIiU5nesAQxSA2bNSV5aBZ",
+      "modified_time": "2026-06-24T14:45:36.000Z"
+    },
+    {
+      "path": "sample_data/scenarios/korean_peninsula_alert_cycle.json",
+      "size": 2923,
+      "sha256": "eae1c011ac265ac4103a549c4087114fb42b93e13740b435b26230fad0299f35",
+      "drive_id": "193clIjRL2ZYgYrQZ-Ln9D55zF--UHh5W",
+      "modified_time": "2026-06-24T19:40:52.000Z"
+    },
+    {
+      "path": "sample_data/scenarios/middle_east_latency_stub.json",
+      "size": 2897,
+      "sha256": "dece95feb5bec9d89f0d4e76c75c17a17aae0b58bdab5abf2136172327989069",
+      "drive_id": "1LZq1gVyVS-g6URD7SE_ysJBq84NcKSqV",
+      "modified_time": "2026-06-24T19:40:52.000Z"
+    },
+    {
+      "path": "sample_data/scenarios/theater_first_use_spillover.json",
+      "size": 2965,
+      "sha256": "834e1917d4a6bd058a7a2881a7f4f4887a4a58ee7ff3b2d74876e6987075d8d2",
+      "drive_id": "1SExHTt6s2dbpZPKstH5ajQoGMmaNzeCm",
+      "modified_time": "2026-06-24T19:40:52.000Z"
+    },
+    {
+      "path": "sample_data/scenarios/baltic_threshold.json",
+      "size": 1884,
+      "sha256": "4e326f7a79d8447a251a525d929ab1ea5648b35d324f1b65b1084df245b170ec",
+      "drive_id": "1k_sddXoRuldyQvvyjCO87_RNQaYRnmAR",
+      "modified_time": "2026-06-24T19:40:51.000Z"
+    },
+    {
+      "path": "sample_data/scenarios/dual_use_missile_ambiguity.json",
+      "size": 3252,
+      "sha256": "09dd3af519d8897d33c6bfc48046dda26fbd8f2e3882b5af6b47de0219123fce",
+      "drive_id": "1J_RQf32pzJkmhn6-Hz-3b51bY4kJEoq3",
+      "modified_time": "2026-06-24T19:40:51.000Z"
+    },
+    {
+      "path": "sample_data/scenarios/strategic_counterforce_temptation.json",
+      "size": 1649,
+      "sha256": "836bbae91a4944080a036e8c6d15ec7496425a8388c54e3ab747a299ea351aee",
+      "drive_id": "1yuWP8_HKuzZL4Qgob0_JGMQrNNldW_2m",
+      "modified_time": "2026-06-24T19:40:51.000Z"
+    },
+    {
+      "path": "sample_data/scenarios/taiwan_counterspace_ambiguity.json",
+      "size": 3839,
+      "sha256": "7cd2886572beae9e7d43be5c031e6cdd66d837c03ee20e9423103b22d23434c4",
+      "drive_id": "1j39wQ-yWVZwRBCgP5TzX4vOMI2qCL3pm",
+      "modified_time": "2026-06-24T19:40:51.000Z"
+    },
+    {
+      "path": "sample_data/scenarios/two_peer_coupling.json",
+      "size": 1622,
+      "sha256": "9ce50796f8b8c547e76baa350b3822c8ec7d0dccfa6b8b6e3d15af1c68470b5b",
+      "drive_id": "1daTAFNi5pPL5jjUYe_RnW4BPfXdeQbr_",
+      "modified_time": "2026-06-24T19:40:51.000Z"
+    },
+    {
+      "path": "sample_data/corpus/china_public_nuclear_doctrine_excerpt.md",
+      "size": 561,
+      "sha256": "44b068f483c19b4d0153aeed9cd5f6e8ac3db4777d316931194656de5f291bad",
+      "drive_id": "1v1SRc7tMsLV2T9pFbgFkiqnsibsc1gGV",
+      "modified_time": "2026-06-24T20:59:52.000Z"
+    },
+    {
+      "path": "sample_data/corpus/dual_use_entanglement_excerpt.md",
+      "size": 611,
+      "sha256": "326773abd656d489afc0602c45642c6518f21938e750587eb7591fa0ea28a411",
+      "drive_id": "15peXPKqGBAeAjKj41FcLtHmrSNfTy6Ie",
+      "modified_time": "2026-06-24T20:59:52.000Z"
+    },
+    {
+      "path": "sample_data/corpus/korea_public_regional_deterrence_excerpt.md",
+      "size": 553,
+      "sha256": "3f3e158ea2ce87190e9d840a10bf1689db211c7453757e3a3409526df3dad925",
+      "drive_id": "1nb3GFyfrJb5QXNHgcBLw34s7PEa4JfI6",
+      "modified_time": "2026-06-24T20:59:52.000Z"
+    },
+    {
+      "path": "sample_data/corpus/pakistan_public_nuclear_doctrine_excerpt.md",
+      "size": 653,
+      "sha256": "4d56bd359b63fb692bb03593387ba2e0c4cda38e65601ad2609ad7b0e89e0348",
+      "drive_id": "1IxxLEt66f7e2x-y1gG3fInE31myGdIS2",
+      "modified_time": "2026-06-24T20:59:52.000Z"
+    },
+    {
+      "path": "sample_data/corpus/india_public_nuclear_doctrine_excerpt.md",
+      "size": 676,
+      "sha256": "6bf7e4ef27e8af8b939d0bbade0d31ee9c0edadff24f60d3c4c89761ffa8b66b",
+      "drive_id": "1XwIYzjjSFYrOet7IebsU6Gw36EMV2my5",
+      "modified_time": "2026-06-24T20:59:51.000Z"
+    },
+    {
+      "path": "sample_data/corpus/2022_npr_excerpt.md",
+      "size": 602,
+      "sha256": "05a360b049b020d8c1f7cb1736f0d1b653d26eeb658dbeae64ba526c6f639c8b",
+      "drive_id": "1ITZABdT7xXPeeyxC5jXrq-xeLI3mH1Pt",
+      "modified_time": "2026-06-24T14:45:35.000Z"
+    },
+    {
+      "path": "sample_data/corpus/jp_3_72_excerpt.md",
+      "size": 517,
+      "sha256": "9c9a7626770c467d3d976ec1ebdfc222de0ad8b5ae4483f50a06f1d31752c9fc",
+      "drive_id": "1YYM9u1kNTjG-3vLRSij9IhqsE2dY0Qhw",
+      "modified_time": "2026-06-24T14:45:35.000Z"
+    },
+    {
+      "path": "sample_data/corpus/nuclear_employment_strategy_excerpt.md",
+      "size": 505,
+      "sha256": "6c8e6c146b546dc545444aa9d525a553786a3445cf0176c6f255dddeb4d345eb",
+      "drive_id": "1ntuCQYiYwxqIfnQPwfQw2RwYjKoozuwC",
+      "modified_time": "2026-06-24T14:45:35.000Z"
+    },
+    {
+      "path": "sample_data/corpus/rusi_ai_nukes_excerpt.md",
+      "size": 507,
+      "sha256": "7cd462fd0ce47460d8bb268e43116acec225bb5176303c79c431fb6f459bc836",
+      "drive_id": "13xZKvNsvADCkTz9cZVnjpOiKKQcaC9G_",
+      "modified_time": "2026-06-24T14:45:35.000Z"
+    },
+    {
+      "path": "sample_data/corpus/stratcom_posture_excerpt.md",
+      "size": 481,
+      "sha256": "c90e6f38f97bc1f075eec5d217b4d5925348936957d2de13c50e017724cab308",
+      "drive_id": "1sA5cU9myAnQJSxiDtPVRRWBiO1g3YdXI",
+      "modified_time": "2026-06-24T14:45:35.000Z"
+    },
+    {
+      "path": "README.md",
+      "size": 10194,
+      "sha256": "d9045841c7d0da1751fae37d755c68a5b1750f8c3ca0bff9f5e3b811a4e7f3ac",
+      "drive_id": "1ImE06IJeNimH6C05FsGbo19J-i1d-FZU",
+      "modified_time": "2026-06-27T19:48:50.000Z"
+    },
+    {
+      "path": "app.py",
+      "size": 67338,
+      "sha256": "378a16379e0da956fe2db67fd3cf996896ed59909e7d4367a366cd8598dc2e32",
+      "drive_id": "1Ux91BBv-sL3QVE1RbaoenKUxPx17wULu",
+      "modified_time": "2026-06-27T19:47:21.000Z"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 152,
+      "sha256": "1de19e215ee760f91d618ac25fd15dac0b6e1fd51fddf8e0222e5677a2d732c9",
+      "drive_id": "1d-9FN46O-59mI91VaiI2rlwh3WcZQSDh",
+      "modified_time": "2026-06-25T08:53:17.000Z"
+    },
+    {
+      "path": "pytest.ini",
+      "size": 24,
+      "sha256": "07e12af78809b103a9e003b9bf24f9718928fa263046b37bf3ebc9ebbf802ceb",
+      "drive_id": "1ROtbcjQG0KHvBevcuCIC1JK1UQTKs3UB",
+      "modified_time": "2026-06-24T21:06:07.000Z"
+    }
+  ]
+}
