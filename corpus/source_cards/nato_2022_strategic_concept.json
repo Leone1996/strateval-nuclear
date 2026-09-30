@@ -1,0 +1,21 @@
+{
+  "source_id": "nato_2022_strategic_concept",
+  "title": "NATO 2022 Strategic Concept",
+  "actor_scope": ["NATO"],
+  "issuing_body": "North Atlantic Treaty Organization",
+  "year": 2022,
+  "authority_level": "official",
+  "source_type": "defence_strategy",
+  "url": "https://www.nato.int/strategic-concept/",
+  "reliability_note": "Official NATO strategic concept page and public alliance strategy material.",
+  "limitations": "High-level alliance strategy only; not an operational doctrine document.",
+  "caveat": "Use to ground alliance-level consultation, deterrence, and risk framing.",
+  "tags": ["collective_defense", "deterrence_and_defense", "alliance_consultation", "strategic_stability"],
+  "summary_bullets": [
+    "Places deterrence and defense at the center of alliance strategy.",
+    "Connects nuclear policy to collective defense and political cohesion.",
+    "Supports evaluation of alliance consultation and assurance language."
+  ],
+  "doctrinal_priors": ["collective_defense", "consultation", "assurance"],
+  "safety_note": "Non-operational paraphrase for AI evaluation."
+}

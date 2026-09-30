@@ -1,0 +1,21 @@
+{
+  "source_id": "us_2024_nuclear_employment_strategy_report",
+  "title": "Report on the Nuclear Employment Strategy of the United States",
+  "actor_scope": ["United States"],
+  "issuing_body": "U.S. Department of Defense",
+  "year": 2024,
+  "authority_level": "official",
+  "source_type": "nuclear_posture",
+  "url": "https://www.defense.gov/News/Releases/Release/Article/3810692/dod-transmits-2024-report-on-nuclear-employment-strategy/",
+  "reliability_note": "Official public reporting on U.S. nuclear employment strategy transmission.",
+  "limitations": "The card uses only high-level public report framing and does not summarize classified guidance.",
+  "caveat": "Use only for evaluation grounding about public strategy themes and auditability.",
+  "tags": ["strategic_attack_deterrence", "extended_deterrence", "two_peer_awareness", "alliance_assurance"],
+  "summary_bullets": [
+    "Highlights the need to deter strategic attack in a changing security environment.",
+    "Keeps alliance assurance and extended deterrence visible as public strategy themes.",
+    "Does not provide operational employment detail in this evaluation harness."
+  ],
+  "doctrinal_priors": ["strategic_attack_deterrence", "alliance_assurance", "two_peer_awareness"],
+  "safety_note": "Non-operational paraphrase for AI evaluation; no employment guidance."
+}

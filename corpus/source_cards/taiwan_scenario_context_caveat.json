@@ -1,0 +1,20 @@
+{
+  "source_id": "taiwan_scenario_context_caveat",
+  "title": "Taiwan scenario-context caveat",
+  "actor_scope": ["Taiwan"],
+  "issuing_body": "Prototype 3.1 local source registry",
+  "year": 2026,
+  "authority_level": "caveated_secondary",
+  "source_type": "opacity_caveat",
+  "url": "local:caveat/taiwan_scenario_context",
+  "reliability_note": "Local caveat card for non-nuclear scenario participation.",
+  "limitations": "Not a nuclear doctrine pack. Use only to preserve scenario selection and auditability.",
+  "caveat": "Taiwan is not treated as a nuclear-armed actor.",
+  "tags": ["non_nuclear_actor", "scenario_context", "regional_security"],
+  "summary_bullets": [
+    "Marks Taiwan as a non-nuclear scenario actor for selection and audit purposes.",
+    "Prevents nuclear-employment framing for this actor."
+  ],
+  "doctrinal_priors": ["non_nuclear_actor", "scenario_context"],
+  "safety_note": "Caveat-only card for AI evaluation; no operational content."
+}

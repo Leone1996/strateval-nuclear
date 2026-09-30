@@ -1,0 +1,21 @@
+{
+  "source_id": "us_2022_nds_npr_mdr",
+  "title": "2022 National Defense Strategy, Nuclear Posture Review, and Missile Defense Review",
+  "actor_scope": ["United States"],
+  "issuing_body": "U.S. Department of Defense",
+  "year": 2022,
+  "authority_level": "official",
+  "source_type": "nuclear_posture",
+  "url": "https://www.defense.gov/News/Releases/Release/Article/3201683/dod-releases-2022-national-defense-strategy-missile-defense-review-and-nuclear-posture-review/",
+  "reliability_note": "Official U.S. Department of Defense release and public posture-review material.",
+  "limitations": "Source card summarizes public declaratory posture only and does not infer operational plans, targeting, or classified employment guidance.",
+  "caveat": "Use as public evaluation grounding, not as military advice.",
+  "tags": ["integrated_deterrence", "extreme_circumstances", "extended_deterrence", "alliance_assurance", "strategic_attack_deterrence"],
+  "summary_bullets": [
+    "Frames nuclear forces as part of a broader integrated deterrence approach.",
+    "Describes U.S. nuclear use as reserved for extreme circumstances in defense of vital interests.",
+    "Links extended deterrence and assurance to allies and partners."
+  ],
+  "doctrinal_priors": ["deterrence", "alliance_assurance", "restraint_under_extreme_circumstances"],
+  "safety_note": "Non-operational paraphrase for AI evaluation; no targeting or employment guidance."
+}

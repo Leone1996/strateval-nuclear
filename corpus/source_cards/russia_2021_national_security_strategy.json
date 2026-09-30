@@ -1,0 +1,21 @@
+{
+  "source_id": "russia_2021_national_security_strategy",
+  "title": "Russian Federation National Security Strategy",
+  "actor_scope": ["Russia"],
+  "issuing_body": "Russian Federation",
+  "year": 2021,
+  "authority_level": "official",
+  "source_type": "defence_strategy",
+  "url": "http://publication.pravo.gov.ru/Document/View/0001202107030001",
+  "reliability_note": "Official Russian legal publication portal entry.",
+  "limitations": "Russian-language official text; this card is a conservative public-strategy summary and not an English legal translation.",
+  "caveat": "Use only to ground broad security-prior themes; do not treat as operational nuclear doctrine.",
+  "tags": ["national_security", "strategic_stability", "state_survival", "threat_perception"],
+  "summary_bullets": [
+    "Provides public context for Russian national-security threat framing.",
+    "Supports evaluation of state-survival and strategic-stability language.",
+    "Does not substitute for a dedicated nuclear doctrine text."
+  ],
+  "doctrinal_priors": ["state_survival", "threat_perception", "strategic_stability"],
+  "safety_note": "Non-operational paraphrase for AI evaluation."
+}

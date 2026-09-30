@@ -1,0 +1,20 @@
+{
+  "source_id": "north_korea_incomplete_source_pack_caveat",
+  "title": "North Korea nuclear policy source-pack caveat",
+  "actor_scope": ["North Korea"],
+  "issuing_body": "Prototype 3.1 local source registry",
+  "year": 2026,
+  "authority_level": "caveated_secondary",
+  "source_type": "opacity_caveat",
+  "url": "local:caveat/north_korea_incomplete_source_pack",
+  "reliability_note": "Local caveat card; official texts, translations, and propaganda context require careful labelling.",
+  "limitations": "Incomplete pack. Do not treat translated or propaganda statements as uncaveated doctrine.",
+  "caveat": "Not hero-ready in Prototype 3.1; use only as a placeholder with visible limitations.",
+  "tags": ["incomplete_source_pack", "nuclear_state_status", "regime_survival", "translation_caveat"],
+  "summary_bullets": [
+    "Marks North Korea as selectable while source grounding remains incomplete.",
+    "Requires future source cards to distinguish official text, translation, and propaganda context."
+  ],
+  "doctrinal_priors": ["source_incomplete", "use_caution"],
+  "safety_note": "Caveat-only card for AI evaluation; no operational content."
+}

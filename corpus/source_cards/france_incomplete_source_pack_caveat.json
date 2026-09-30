@@ -1,0 +1,20 @@
+{
+  "source_id": "france_incomplete_source_pack_caveat",
+  "title": "France public nuclear policy source-pack caveat",
+  "actor_scope": ["France"],
+  "issuing_body": "Prototype 3.1 local source registry",
+  "year": 2026,
+  "authority_level": "caveated_secondary",
+  "source_type": "opacity_caveat",
+  "url": "local:caveat/france_incomplete_source_pack",
+  "reliability_note": "Local caveat card; not a substitute for official French presidential speeches or policy documents.",
+  "limitations": "Incomplete pack. Do not treat this card as official doctrine or a complete French source base.",
+  "caveat": "Not hero-ready. Expand with official Elysee/source cards before external doctrine claims.",
+  "tags": ["incomplete_source_pack", "vital_interests", "independent_deterrent"],
+  "summary_bullets": [
+    "Marks the France actor as available for scenario selection but source-grounding incomplete.",
+    "Prevents uncaveated doctrine claims until official source cards are added."
+  ],
+  "doctrinal_priors": ["source_incomplete", "use_caution"],
+  "safety_note": "Caveat-only card for AI evaluation; no operational content."
+}

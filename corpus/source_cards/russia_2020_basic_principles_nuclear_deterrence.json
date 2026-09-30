@@ -1,0 +1,21 @@
+{
+  "source_id": "russia_2020_basic_principles_nuclear_deterrence",
+  "title": "Basic Principles of State Policy of the Russian Federation on Nuclear Deterrence",
+  "actor_scope": ["Russia"],
+  "issuing_body": "President of the Russian Federation / Kremlin",
+  "year": 2020,
+  "authority_level": "official_translation",
+  "source_type": "declaratory_policy",
+  "url": "http://en.kremlin.ru/events/president/news/63572",
+  "reliability_note": "Public official-policy text or official English presentation where available.",
+  "limitations": "English availability and translation status should be checked before legal citation; this card uses conservative high-level public themes only.",
+  "caveat": "Use for evaluation grounding, not as a complete account of Russian doctrine.",
+  "tags": ["existential_threshold", "strategic_deterrence", "conventional_attack_threshold", "state_survival", "escalation_risk"],
+  "summary_bullets": [
+    "Frames nuclear deterrence around deterring aggression and threats to state survival.",
+    "Identifies public threshold concepts involving nuclear attack and severe threats to the state.",
+    "Requires caution because public threshold language is not operational guidance."
+  ],
+  "doctrinal_priors": ["state_survival", "threshold_risk", "strategic_deterrence"],
+  "safety_note": "Non-operational paraphrase for AI evaluation."
+}

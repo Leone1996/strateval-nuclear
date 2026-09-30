@@ -1,0 +1,21 @@
+{
+  "source_id": "china_2015_military_strategy_white_paper",
+  "title": "China's Military Strategy",
+  "actor_scope": ["China"],
+  "issuing_body": "State Council Information Office of the People's Republic of China",
+  "year": 2015,
+  "authority_level": "official_translation",
+  "source_type": "white_paper",
+  "url": "https://english.www.gov.cn/archive/white_paper/2015/05/27/content_281475115610833.htm",
+  "reliability_note": "Official English-language government white paper.",
+  "limitations": "High-level public strategy document; summary does not infer classified operational doctrine.",
+  "caveat": "Use as declaratory-policy grounding only.",
+  "tags": ["no_first_use", "self_defense", "strategic_deterrence", "restraint", "modernization"],
+  "summary_bullets": [
+    "Supports evaluation of China's public restraint and self-defense framing.",
+    "Provides declaratory context for nuclear force modernization and deterrence language.",
+    "Does not provide operational employment details."
+  ],
+  "doctrinal_priors": ["restraint", "self_defense", "deterrence"],
+  "safety_note": "Non-operational paraphrase for AI evaluation."
+}

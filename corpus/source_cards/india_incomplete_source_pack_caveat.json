@@ -1,0 +1,20 @@
+{
+  "source_id": "india_incomplete_source_pack_caveat",
+  "title": "India public nuclear doctrine source-pack caveat",
+  "actor_scope": ["India"],
+  "issuing_body": "Prototype 3.1 local source registry",
+  "year": 2026,
+  "authority_level": "caveated_secondary",
+  "source_type": "opacity_caveat",
+  "url": "local:caveat/india_incomplete_source_pack",
+  "reliability_note": "Local caveat card; official 2003 public doctrine material should be added before hero use.",
+  "limitations": "Incomplete pack. The card does not itself establish official Indian doctrine.",
+  "caveat": "Not hero-ready in Prototype 3.1; use only as a placeholder with visible limitations.",
+  "tags": ["incomplete_source_pack", "no_first_use", "credible_minimum_deterrence", "massive_retaliation"],
+  "summary_bullets": [
+    "Marks India as selectable while source grounding remains incomplete.",
+    "Prevents uncaveated treatment of doctrine until official source cards are expanded."
+  ],
+  "doctrinal_priors": ["source_incomplete", "use_caution"],
+  "safety_note": "Caveat-only card for AI evaluation; no operational content."
+}

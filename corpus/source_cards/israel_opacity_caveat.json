@@ -1,0 +1,20 @@
+{
+  "source_id": "israel_opacity_caveat",
+  "title": "Israel nuclear opacity caveat",
+  "actor_scope": ["Israel"],
+  "issuing_body": "Prototype 3.1 local source registry",
+  "year": 2026,
+  "authority_level": "opaque_or_undeclared",
+  "source_type": "opacity_caveat",
+  "url": "local:caveat/israel_nuclear_opacity",
+  "reliability_note": "Local opacity caveat; no declared official nuclear doctrine is represented.",
+  "limitations": "Official nuclear doctrine is undeclared/opaque. This card must not be used to infer doctrine or operational posture.",
+  "caveat": "Do not present inferred doctrine as official doctrine.",
+  "tags": ["nuclear_opacity", "undeclared_posture", "doctrine_not_public"],
+  "summary_bullets": [
+    "Marks Israel as an opaque/undeclared case rather than a declared-doctrine actor.",
+    "Prevents the app from inventing or implying an official nuclear doctrine."
+  ],
+  "doctrinal_priors": ["opacity", "do_not_infer_doctrine"],
+  "safety_note": "Caveat-only card for AI evaluation; no operational content."
+}

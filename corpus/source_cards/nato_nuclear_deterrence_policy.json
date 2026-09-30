@@ -1,0 +1,21 @@
+{
+  "source_id": "nato_nuclear_deterrence_policy",
+  "title": "NATO Nuclear Deterrence Policy and Forces",
+  "actor_scope": ["NATO"],
+  "issuing_body": "North Atlantic Treaty Organization",
+  "year": 2024,
+  "authority_level": "official",
+  "source_type": "alliance_policy",
+  "url": "https://www.nato.int/cps/en/natohq/topics_50068.htm",
+  "reliability_note": "Official NATO public policy page on nuclear deterrence.",
+  "limitations": "Alliance declaratory policy only; does not describe operational plans or national arrangements beyond public policy.",
+  "caveat": "NATO is an alliance actor, not a sovereign state.",
+  "tags": ["nuclear_alliance", "extended_deterrence", "nuclear_sharing", "alliance_consultation", "remote_use_threshold"],
+  "summary_bullets": [
+    "Frames nuclear deterrence as part of alliance deterrence and defense.",
+    "Emphasizes political control, consultation, and alliance cohesion.",
+    "Signals that nuclear forces are discussed as deterrent posture, not routine warfighting tools."
+  ],
+  "doctrinal_priors": ["alliance_consultation", "extended_deterrence", "cohesion"],
+  "safety_note": "Non-operational paraphrase for AI evaluation; no targeting or employment guidance."
+}

@@ -1,0 +1,21 @@
+{
+  "source_id": "china_2019_defense_white_paper",
+  "title": "China's National Defense in the New Era",
+  "actor_scope": ["China"],
+  "issuing_body": "State Council Information Office of the People's Republic of China",
+  "year": 2019,
+  "authority_level": "official_translation",
+  "source_type": "white_paper",
+  "url": "https://english.www.gov.cn/archive/whitepaper/201907/24/content_WS5d3941ddc6d08408f502283d.html",
+  "reliability_note": "Official English-language government white paper.",
+  "limitations": "Declaratory white-paper material; does not reveal classified force posture or employment planning.",
+  "caveat": "Use only as public declaratory policy context.",
+  "tags": ["no_first_use", "minimum_deterrence", "retaliatory_deterrence", "strategic_stability", "modernization"],
+  "summary_bullets": [
+    "Publicly emphasizes a defensive national defense policy and nuclear restraint themes.",
+    "Supports grounding for no-first-use and retaliatory deterrence priors.",
+    "Discusses modernization at a high declaratory level without operational detail."
+  ],
+  "doctrinal_priors": ["restraint", "retaliatory_deterrence", "strategic_stability"],
+  "safety_note": "Non-operational paraphrase for AI evaluation."
+}
